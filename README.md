@@ -1,3 +1,9 @@
+## Proyecto nuevo: Hybrid Motion Controller
+
+La Fase 1 del proyecto nuevo está en **[HybridMotionController](HybridMotionController/README.md)**. Abre esa subcarpeta en Unity Hub. El proyecto Patio original permanece debajo y no se mezcla con el nuevo.
+
+---
+
 # Patio — prototipo físico para Unity
 
 Prototipo 3D en tercera persona: muñeco articulado con equilibrio asistido, escenario pequeño y una dirección visual inicial tipo PS2. Usa geometría simple, colores apagados, niebla y una imagen de baja resolución. No incluye recursos de otros juegos.
